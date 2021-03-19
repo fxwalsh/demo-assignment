@@ -7,6 +7,8 @@ This is my project
 
 more text
 
+**This is in bold**
+
 ## heading 2
 
 More writing
